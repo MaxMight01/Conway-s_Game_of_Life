@@ -1,0 +1,6 @@
+{
+    "aspect_ratio":"16-9",
+    "fps":60,
+    "colors":{"dead":"white", "live":"black"},
+    "caption":"Conway's Game of Life"
+}
